@@ -52,7 +52,7 @@ def build():
     # Source index remains compatible with the preserved Python server.
     page = (ROOT / 'static/index.html').read_text(encoding='utf-8')
     page = page.replace('href="/static/', 'href="static/').replace('src="/static/', 'src="static/')
-    page = page.replace('<script src="static/vendor/leaflet.js">', '<script src="static/data-client-v11.js"></script>\n    <script src="static/site-integration.js"></script>\n    <script src="static/vendor/leaflet.js">')
+    page = page.replace('<script src="static/vendor/leaflet.js">', '<script src="static/data-client-v11.js?v=20261006"></script>\n    <script src="static/site-integration.js"></script>\n    <script src="static/vendor/leaflet.js">')
     page = page.replace('本地离线资料库', '静态历史资料库')
     (OUT / 'index.html').write_text(page, encoding='utf-8')
     # Do not publish the redundant backend-only entrypoint.
