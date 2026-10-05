@@ -1,0 +1,142 @@
+{
+  "longmarch": {
+    "title": "二万五千里长征",
+    "url": "https://news.12371.cn/2014/10/15/ARTI1413359340883737.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/longmarch.html",
+    "sha256": "950da53ddd71a7fcf1dedf61ccb89b3331fcef01f3523ef84c22dd98b0aed763"
+  },
+  "red25": {
+    "title": "红二十五军长征",
+    "url": "https://www.81.mil.cn/2018byzt/2018-07/31/content_8100052.htm",
+    "checked_on": "2026-10-02",
+    "stored_content": "source_url",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_status": "download_failed: URLError"
+  },
+  "meeting": {
+    "title": "为什么说三大主力红军会师宣告了长征胜利结束",
+    "url": "https://www.12371.cn/2012/10/19/ARTI1350595776756879.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/meeting.html",
+    "sha256": "81269172ba861040875ea759866ae6c14739e2a444a4c25dfb5424f14d6a3ae1"
+  },
+  "jiangtai": {
+    "title": "我们胜利会师了",
+    "url": "https://www.mod.gov.cn/gfbw/gfjy_index/zyhd/4848435.html",
+    "checked_on": "2026-10-02",
+    "stored_content": "source_url",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_status": "download_failed: URLError"
+  },
+  "davi": {
+    "title": "红军达维会师",
+    "url": "https://fuwu.12371.cn/2016/07/22/ARTI1469154834425831.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/davi.html",
+    "sha256": "2b368b4cbfe797a99f45b0a07522d48d4f82760799fde59c4ac84773b38992e3"
+  },
+  "huaihai": {
+    "title": "淮海战役（1948年－1949年）",
+    "url": "https://www.81.mil.cn/2018zt/2018-04/11/content_7992664.htm",
+    "checked_on": "2026-10-02",
+    "stored_content": "source_url",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_status": "download_failed: URLError"
+  },
+  "soviet": {
+    "title": "中央苏区的创建和中华苏维埃共和国的建立",
+    "url": "https://www.12371.cn/2022/05/04/ARTI1651624701631282.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/soviet.html",
+    "sha256": "28a400d76e5614a33a6d3a55c35aaee019a52dde2188796badcd01bf007e48a2"
+  },
+  "tibet": {
+    "title": "西藏和平解放与繁荣发展",
+    "url": "https://www.neac.gov.cn/seac/xwzx/202105/1145433.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/tibet.html",
+    "sha256": "108e1b01702d8a265725812565066b1ae85f8f42d670e96da0e92384f07c8420"
+  },
+  "chronicle": {
+    "title": "中国共产党一百年大事记",
+    "url": "https://www.12371.cn/2021/06/28/ARTI1624828749818652.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/chronicle.html",
+    "sha256": "3d38d280788da3488add5f732b27146ebdd34bfc87aafb983938b12d96312fd2"
+  },
+  "nanjing": {
+    "title": "外交史上的今天：南京沦陷",
+    "url": "https://www.mfa.gov.cn/web/ziliao_674904/historytoday_674971/200312/t20031213_9284693.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/nanjing.html",
+    "sha256": "0efdd743e6d30b10e9c0fa0048b95da72836d2320841fcc405a788df15d95deb"
+  },
+  "wuhan": {
+    "title": "武汉沦陷时期档案史料丛编",
+    "url": "https://www.whda.org.cn/dawh/bycg/202512/t20251203_2689132.html",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/wuhan.html",
+    "sha256": "cdc62632509112f04300e5c19a0079e3a2312cc491114fbd8a652ea05517d7dd"
+  },
+  "northwest": {
+    "title": "照金：点燃西北革命火种",
+    "url": "https://www.12371.cn/2021/08/12/ARTI1628761662936749.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/northwest.html",
+    "sha256": "7870502dcd90e12b129ba109133eb04a1ce5632e1c12c12be1c9d6f3c24e87ad"
+  },
+  "liaoshen-control": {
+    "title": "为什么说三大战役奠定了我党我军全国胜利的基础",
+    "url": "https://www.12371.cn/2022/05/06/ARTI1651832095999612.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/liaoshen-control.html",
+    "sha256": "56df66fe6003cd492914dc8a16e86d716b8d984c45073358c9edbfe4da3639f9"
+  },
+  "nanjing-government": {
+    "title": "南京历史沿革",
+    "url": "https://www.njtb.gov.cn/njjj/lsyg/",
+    "checked_on": "2026-10-02",
+    "stored_content": "source_url",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_status": "download_failed: URLError"
+  },
+  "shanghai-liberation": {
+    "title": "百年瞬间：解放大上海",
+    "url": "https://www.12371.cn/2021/05/27/VIDE1622071681623109.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/shanghai-liberation.html",
+    "sha256": "c2cfe3cf65c42173d1ea8cb2190139c7cbaf66f39098588da44ed43168652a0d"
+  },
+  "red-column": {
+    "title": "长征中的会议：红军改编",
+    "url": "https://fuwu.12371.cn/2012/06/11/ARTI1339400564382590_13.shtml",
+    "checked_on": "2026-10-02",
+    "stored_content": "offline_html_archive",
+    "precision": "Published historical dates; coordinates are place markers, not surveyed troop positions",
+    "archive_path": "data/history/archive/military/red-column.html",
+    "sha256": "0dfb0901cb67e247b2df9f4ced0543c7e9a8d45c1ff26946274009d0bb8ef7c0"
+  }
+}

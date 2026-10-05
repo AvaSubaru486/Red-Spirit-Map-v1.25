@@ -1,0 +1,5681 @@
+[
+  {
+    "id": "beifa_tingsi",
+    "name": "汀泗桥战役",
+    "phase": "北伐",
+    "start_date": "1926-08-26",
+    "end_date": "1926-08-27",
+    "location": "汀泗桥",
+    "coords": [
+      114.27,
+      29.73
+    ],
+    "participants": [
+      "国民革命军",
+      "吴佩孚部"
+    ],
+    "summary": "北伐阶段的重要军事行动。",
+    "result": "北伐军突破武汉南面的防御节点。",
+    "stages": [
+      {
+        "date": "1926-08-26",
+        "location": "汀泗桥",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1926-08-27",
+        "location": "汀泗桥",
+        "description": "北伐军突破武汉南面的防御节点。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "kmt",
+        "label": "岳阳 → 汀泗桥",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            114.27,
+            29.73
+          ]
+        ],
+        "start_year": 1926,
+        "end_year": 1926,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "northern"
+        ]
+      }
+    ],
+    "source_ids": [
+      "northern"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "吴佩孚部",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "beifa_hesheng",
+    "name": "贺胜桥战役",
+    "phase": "北伐",
+    "start_date": "1926-08-30",
+    "end_date": "1926-08-30",
+    "location": "贺胜桥",
+    "coords": [
+      114.31,
+      30.01
+    ],
+    "participants": [
+      "国民革命军",
+      "吴佩孚部"
+    ],
+    "summary": "北伐阶段的重要军事行动。",
+    "result": "北伐军向武汉推进。",
+    "stages": [
+      {
+        "date": "1926-08-30",
+        "location": "贺胜桥",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1926-08-30",
+        "location": "贺胜桥",
+        "description": "北伐军向武汉推进。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "kmt",
+        "label": "汀泗桥 → 贺胜桥 → 武昌",
+        "coordinates": [
+          [
+            114.27,
+            29.73
+          ],
+          [
+            114.31,
+            30.01
+          ],
+          [
+            114.32,
+            30.55
+          ]
+        ],
+        "start_year": 1926,
+        "end_year": 1926,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "northern"
+        ]
+      }
+    ],
+    "source_ids": [
+      "northern"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "吴佩孚部",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "beifa_wuchang",
+    "name": "武昌战役",
+    "phase": "北伐",
+    "start_date": "1926-09",
+    "end_date": "1926-10",
+    "location": "武昌",
+    "coords": [
+      114.32,
+      30.55
+    ],
+    "participants": [
+      "国民革命军",
+      "吴佩孚部"
+    ],
+    "summary": "北伐阶段的重要军事行动。",
+    "result": "武昌被北伐军攻占。",
+    "stages": [
+      {
+        "date": "1926-09",
+        "location": "武昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1926-10",
+        "location": "武昌",
+        "description": "武昌被北伐军攻占。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "kmt",
+        "label": "贺胜桥 → 武昌",
+        "coordinates": [
+          [
+            114.31,
+            30.01
+          ],
+          [
+            114.32,
+            30.55
+          ]
+        ],
+        "start_year": 1926,
+        "end_year": 1926,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "northern"
+        ]
+      }
+    ],
+    "source_ids": [
+      "northern"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "吴佩孚部",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "beifa_nanchang",
+    "name": "南昌战役",
+    "phase": "北伐",
+    "start_date": "1926-09",
+    "end_date": "1926-11",
+    "location": "南昌",
+    "coords": [
+      115.86,
+      28.68
+    ],
+    "participants": [
+      "国民革命军",
+      "孙传芳部"
+    ],
+    "summary": "北伐阶段的重要军事行动。",
+    "result": "反复争夺后北伐军控制南昌。",
+    "stages": [
+      {
+        "date": "1926-09",
+        "location": "南昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1926-11",
+        "location": "南昌",
+        "description": "反复争夺后北伐军控制南昌。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "kmt",
+        "label": "九江 → 南昌",
+        "coordinates": [
+          [
+            115.99,
+            29.71
+          ],
+          [
+            115.86,
+            28.68
+          ]
+        ],
+        "start_year": 1926,
+        "end_year": 1926,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "northern2"
+        ]
+      }
+    ],
+    "source_ids": [
+      "northern2"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "孙传芳部",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "nanchang_uprising",
+    "name": "南昌起义及南下",
+    "phase": "土地革命战争",
+    "start_date": "1927-08",
+    "end_date": "1927-10",
+    "location": "南昌",
+    "coords": [
+      115.86,
+      28.68
+    ],
+    "participants": [
+      "起义军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "起义军南下广东，受挫后分散转战。",
+    "stages": [
+      {
+        "date": "1927-08",
+        "location": "南昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1927-10",
+        "location": "南昌",
+        "description": "起义军南下广东，受挫后分散转战。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "南昌 → 瑞金 → 汕头",
+        "coordinates": [
+          [
+            115.86,
+            28.68
+          ],
+          [
+            116.03,
+            25.89
+          ],
+          [
+            116.68,
+            23.35
+          ]
+        ],
+        "start_year": 1927,
+        "end_year": 1927,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "起义军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "autumn",
+    "name": "秋收起义与转向井冈山",
+    "phase": "土地革命战争",
+    "start_date": "1927-09",
+    "end_date": "1927-10",
+    "location": "文家市",
+    "coords": [
+      113.98,
+      28.15
+    ],
+    "participants": [
+      "工农革命军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "转向农村开展根据地斗争。",
+    "stages": [
+      {
+        "date": "1927-09",
+        "location": "文家市",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1927-10",
+        "location": "文家市",
+        "description": "转向农村开展根据地斗争。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "文家市 → 三湾 → 井冈山",
+        "coordinates": [
+          [
+            113.98,
+            28.15
+          ],
+          [
+            114.06,
+            26.43
+          ],
+          [
+            114.17,
+            26.57
+          ]
+        ],
+        "start_year": 1927,
+        "end_year": 1927,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "mao2"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mao2"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "工农革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "guangzhou_uprising",
+    "name": "广州起义",
+    "phase": "土地革命战争",
+    "start_date": "1927-12-11",
+    "end_date": "1927-12-13",
+    "location": "广州",
+    "coords": [
+      113.27,
+      23.13
+    ],
+    "participants": [
+      "起义军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "城市起义受挫，部分人员转入农村斗争。",
+    "stages": [
+      {
+        "date": "1927-12-11",
+        "location": "广州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1927-12-13",
+        "location": "广州",
+        "description": "城市起义受挫，部分人员转入农村斗争。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "起义军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "pingjiang",
+    "name": "平江起义",
+    "phase": "土地革命战争",
+    "start_date": "1928-07",
+    "end_date": "1928-07",
+    "location": "平江",
+    "coords": [
+      113.58,
+      28.71
+    ],
+    "participants": [
+      "起义军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "红五军成立，随后转战湘鄂赣边。",
+    "stages": [
+      {
+        "date": "1928-07",
+        "location": "平江",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1928-07",
+        "location": "平江",
+        "description": "红五军成立，随后转战湘鄂赣边。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "pingjiang"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "起义军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "huangyang",
+    "name": "黄洋界保卫战",
+    "phase": "土地革命战争",
+    "start_date": "1928-08-30",
+    "end_date": "1928-08-30",
+    "location": "井冈山",
+    "coords": [
+      114.17,
+      26.57
+    ],
+    "participants": [
+      "红军",
+      "湘赣国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "守军保卫根据地要隘。",
+    "stages": [
+      {
+        "date": "1928-08-30",
+        "location": "井冈山",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1928-08-30",
+        "location": "井冈山",
+        "description": "守军保卫根据地要隘。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "mao2"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "湘赣国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "encirclement1",
+    "name": "中央苏区第一次反围剿",
+    "phase": "土地革命战争",
+    "start_date": "1930-12",
+    "end_date": "1931-01",
+    "location": "龙冈",
+    "coords": [
+      115.38,
+      26.73
+    ],
+    "participants": [
+      "红一方面军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "红军在根据地内实施反击。",
+    "stages": [
+      {
+        "date": "1930-12",
+        "location": "龙冈",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1931-01",
+        "location": "龙冈",
+        "description": "红军在根据地内实施反击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "兴国 → 龙冈",
+        "coordinates": [
+          [
+            115.36,
+            26.34
+          ],
+          [
+            115.38,
+            26.73
+          ]
+        ],
+        "start_year": 1930,
+        "end_year": 1931,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "soviet"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红一方面军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "encirclement2",
+    "name": "中央苏区第二次反围剿",
+    "phase": "土地革命战争",
+    "start_date": "1931-04",
+    "end_date": "1931-05",
+    "location": "富田",
+    "coords": [
+      115.18,
+      26.96
+    ],
+    "participants": [
+      "红一方面军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "红军连续作战，反围剿获胜。",
+    "stages": [
+      {
+        "date": "1931-04",
+        "location": "富田",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1931-05",
+        "location": "富田",
+        "description": "红军连续作战，反围剿获胜。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "富田 → 广昌",
+        "coordinates": [
+          [
+            115.18,
+            26.96
+          ],
+          [
+            116.33,
+            26.84
+          ]
+        ],
+        "start_year": 1931,
+        "end_year": 1931,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "soviet"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红一方面军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "encirclement3",
+    "name": "中央苏区第三次反围剿",
+    "phase": "土地革命战争",
+    "start_date": "1931-07",
+    "end_date": "1931-09",
+    "location": "兴国",
+    "coords": [
+      115.36,
+      26.34
+    ],
+    "participants": [
+      "红一方面军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "红军机动作战，保卫根据地。",
+    "stages": [
+      {
+        "date": "1931-07",
+        "location": "兴国",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1931-09",
+        "location": "兴国",
+        "description": "红军机动作战，保卫根据地。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "瑞金 → 兴国",
+        "coordinates": [
+          [
+            116.03,
+            25.89
+          ],
+          [
+            115.36,
+            26.34
+          ]
+        ],
+        "start_year": 1931,
+        "end_year": 1931,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "soviet"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红一方面军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "encirclement4",
+    "name": "中央苏区第四次反围剿",
+    "phase": "土地革命战争",
+    "start_date": "1933-02",
+    "end_date": "1933-03",
+    "location": "南丰",
+    "coords": [
+      116.53,
+      27.22
+    ],
+    "participants": [
+      "红一方面军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "红军集中兵力取得反围剿胜利。",
+    "stages": [
+      {
+        "date": "1933-02",
+        "location": "南丰",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1933-03",
+        "location": "南丰",
+        "description": "红军集中兵力取得反围剿胜利。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "宁都 → 南丰",
+        "coordinates": [
+          [
+            116.01,
+            26.47
+          ],
+          [
+            116.53,
+            27.22
+          ]
+        ],
+        "start_year": 1933,
+        "end_year": 1933,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "soviet"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红一方面军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "encirclement5",
+    "name": "中央苏区第五次反围剿",
+    "phase": "土地革命战争",
+    "start_date": "1933-09",
+    "end_date": "1934-10",
+    "location": "广昌",
+    "coords": [
+      116.33,
+      26.84
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "土地革命战争阶段的重要军事行动。",
+    "result": "反围剿失败，中央红军开始战略转移。",
+    "stages": [
+      {
+        "date": "1933-09",
+        "location": "广昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1934-10",
+        "location": "广昌",
+        "description": "反围剿失败，中央红军开始战略转移。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "kmt",
+        "label": "南丰 → 广昌",
+        "coordinates": [
+          [
+            116.53,
+            27.22
+          ],
+          [
+            116.33,
+            26.84
+          ]
+        ],
+        "start_year": 1933,
+        "end_year": 1934,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      },
+      {
+        "faction": "ccp",
+        "label": "瑞金 → 于都",
+        "coordinates": [
+          [
+            116.03,
+            25.89
+          ],
+          [
+            115.42,
+            25.95
+          ]
+        ],
+        "start_year": 1933,
+        "end_year": 1934,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "soviet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "soviet"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "xiangjiang",
+    "name": "湘江战役",
+    "phase": "长征",
+    "start_date": "1934-11-27",
+    "end_date": "1934-12-01",
+    "location": "全州",
+    "coords": [
+      111.07,
+      25.93
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "红军突破封锁线并遭受重大损失。",
+    "stages": [
+      {
+        "date": "1934-11-27",
+        "location": "全州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1934-12-01",
+        "location": "全州",
+        "description": "红军突破封锁线并遭受重大损失。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "于都 → 全州",
+        "coordinates": [
+          [
+            115.42,
+            25.95
+          ],
+          [
+            111.07,
+            25.93
+          ]
+        ],
+        "start_year": 1934,
+        "end_year": 1934,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "chishui",
+    "name": "四渡赤水",
+    "phase": "长征",
+    "start_date": "1935-01",
+    "end_date": "1935-03",
+    "location": "赤水",
+    "coords": [
+      105.7,
+      28.59
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "通过反复机动摆脱围堵。",
+    "stages": [
+      {
+        "date": "1935-01",
+        "location": "赤水",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1935-03",
+        "location": "赤水",
+        "description": "通过反复机动摆脱围堵。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "土城 → 扎西 → 遵义 → 茅台 → 赤水",
+        "coordinates": [
+          [
+            106.02,
+            28.3
+          ],
+          [
+            105.05,
+            27.85
+          ],
+          [
+            106.93,
+            27.7
+          ],
+          [
+            106.37,
+            27.85
+          ],
+          [
+            105.7,
+            28.59
+          ]
+        ],
+        "start_year": 1935,
+        "end_year": 1935,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "mao3"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mao3"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "jinsha",
+    "name": "巧渡金沙江",
+    "phase": "长征",
+    "start_date": "1935-05",
+    "end_date": "1935-05",
+    "location": "皎平渡",
+    "coords": [
+      102.42,
+      26.2
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "红军渡江北上。",
+    "stages": [
+      {
+        "date": "1935-05",
+        "location": "皎平渡",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1935-05",
+        "location": "皎平渡",
+        "description": "红军渡江北上。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "luding",
+    "name": "强渡大渡河与飞夺泸定桥",
+    "phase": "长征",
+    "start_date": "1935-05",
+    "end_date": "1935-05",
+    "location": "泸定",
+    "coords": [
+      102.23,
+      29.91
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "红军突破大渡河阻隔。",
+    "stages": [
+      {
+        "date": "1935-05",
+        "location": "泸定",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1935-05",
+        "location": "泸定",
+        "description": "红军突破大渡河阻隔。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "lazikou",
+    "name": "腊子口战斗",
+    "phase": "长征",
+    "start_date": "1935-09",
+    "end_date": "1935-09",
+    "location": "腊子口",
+    "coords": [
+      103.89,
+      34.13
+    ],
+    "participants": [
+      "中央红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "打开红军北上通道；标记为战区概位。",
+    "stages": [
+      {
+        "date": "1935-09",
+        "location": "腊子口",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1935-09",
+        "location": "腊子口",
+        "description": "打开红军北上通道；标记为战区概位。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中央红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zhiluozhen",
+    "name": "直罗镇战役",
+    "phase": "长征",
+    "start_date": "1935-11-20",
+    "end_date": "1935-11-24",
+    "location": "直罗镇",
+    "coords": [
+      108.62,
+      35.88
+    ],
+    "participants": [
+      "红一方面军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "巩固陕北落脚点。",
+    "stages": [
+      {
+        "date": "1935-11-20",
+        "location": "直罗镇",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1935-11-24",
+        "location": "直罗镇",
+        "description": "巩固陕北落脚点。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红一方面军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shanchengbao",
+    "name": "山城堡战役",
+    "phase": "长征",
+    "start_date": "1936-11-21",
+    "end_date": "1936-11-22",
+    "location": "山城堡",
+    "coords": [
+      107.26,
+      37.14
+    ],
+    "participants": [
+      "红军",
+      "国民党军"
+    ],
+    "summary": "长征阶段的重要军事行动。",
+    "result": "三大主力会师后协同作战。",
+    "stages": [
+      {
+        "date": "1936-11-21",
+        "location": "山城堡",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1936-11-22",
+        "location": "山城堡",
+        "description": "三大主力会师后协同作战。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "红军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "jiangqiao",
+    "name": "江桥抗战",
+    "phase": "抗日战争",
+    "start_date": "1931-11",
+    "end_date": "1931-11",
+    "location": "齐齐哈尔",
+    "coords": [
+      123.92,
+      47.35
+    ],
+    "participants": [
+      "东北军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "东北守军阻击日军推进。",
+    "stages": [
+      {
+        "date": "1931-11",
+        "location": "齐齐哈尔",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1931-11",
+        "location": "齐齐哈尔",
+        "description": "东北守军阻击日军推进。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "resistance"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "东北军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shanghai1932",
+    "name": "一二八淞沪抗战",
+    "phase": "抗日战争",
+    "start_date": "1932-01-28",
+    "end_date": "1932-03-03",
+    "location": "上海",
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "participants": [
+      "中国守军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队抵抗日军进攻，后达成停战。",
+    "stages": [
+      {
+        "date": "1932-01-28",
+        "location": "上海",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1932-03-03",
+        "location": "上海",
+        "description": "中国军队抵抗日军进攻，后达成停战。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "resistance"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中国守军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "greatwall",
+    "name": "长城抗战",
+    "phase": "抗日战争",
+    "start_date": "1933-01",
+    "end_date": "1933-05",
+    "location": "山海关",
+    "coords": [
+      119.75,
+      40.01
+    ],
+    "participants": [
+      "中国守军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队沿长城防线抵抗。",
+    "stages": [
+      {
+        "date": "1933-01",
+        "location": "山海关",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1933-05",
+        "location": "山海关",
+        "description": "中国军队沿长城防线抵抗。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "resistance"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中国守军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "lugou",
+    "name": "卢沟桥抗战",
+    "phase": "抗日战争",
+    "start_date": "1937-07",
+    "end_date": "1937-07",
+    "location": "卢沟桥",
+    "coords": [
+      116.22,
+      39.85
+    ],
+    "participants": [
+      "中国第二十九军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "全面抗战由此展开。",
+    "stages": [
+      {
+        "date": "1937-07",
+        "location": "卢沟桥",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1937-07",
+        "location": "卢沟桥",
+        "description": "全面抗战由此展开。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中国第二十九军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shanghai1937",
+    "name": "淞沪会战",
+    "phase": "抗日战争",
+    "start_date": "1937-08-13",
+    "end_date": "1937-11-12",
+    "location": "上海",
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队长期抵抗后撤退。",
+    "stages": [
+      {
+        "date": "1937-08-13",
+        "location": "上海",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1937-11-12",
+        "location": "上海",
+        "description": "中国军队长期抵抗后撤退。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "上海 → 南京",
+        "coordinates": [
+          [
+            121.47,
+            31.23
+          ],
+          [
+            118.8,
+            32.06
+          ]
+        ],
+        "start_year": 1937,
+        "end_year": 1937,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "pingxingguan",
+    "name": "平型关战斗",
+    "phase": "抗日战争",
+    "start_date": "1937-09-25",
+    "end_date": "1937-09-25",
+    "location": "平型关",
+    "coords": [
+      113.98,
+      39.32
+    ],
+    "participants": [
+      "八路军第一一五师",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "八路军伏击日军运输部队。",
+    "stages": [
+      {
+        "date": "1937-09-25",
+        "location": "平型关",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1937-09-25",
+        "location": "平型关",
+        "description": "八路军伏击日军运输部队。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "八路军第一一五师",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "xinkou",
+    "name": "忻口会战与太原保卫战",
+    "phase": "抗日战争",
+    "start_date": "1937-10",
+    "end_date": "1937-11",
+    "location": "忻口",
+    "coords": [
+      112.73,
+      38.59
+    ],
+    "participants": [
+      "中国抗日军队",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "阻击后太原失守，敌后战争进一步展开。",
+    "stages": [
+      {
+        "date": "1937-10",
+        "location": "忻口",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1937-11",
+        "location": "忻口",
+        "description": "阻击后太原失守，敌后战争进一步展开。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "大同 → 忻口 → 太原",
+        "coordinates": [
+          [
+            113.3,
+            40.08
+          ],
+          [
+            112.73,
+            38.59
+          ],
+          [
+            112.55,
+            37.87
+          ]
+        ],
+        "start_year": 1937,
+        "end_year": 1937,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中国抗日军队",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "nanjing",
+    "name": "南京保卫战",
+    "phase": "抗日战争",
+    "start_date": "1937-12",
+    "end_date": "1937-12",
+    "location": "南京",
+    "coords": [
+      118.8,
+      32.06
+    ],
+    "participants": [
+      "中国守军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "南京失守，日军制造南京大屠杀。",
+    "stages": [
+      {
+        "date": "1937-12",
+        "location": "南京",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1937-12",
+        "location": "南京",
+        "description": "南京失守，日军制造南京大屠杀。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "上海 → 南京",
+        "coordinates": [
+          [
+            121.47,
+            31.23
+          ],
+          [
+            118.8,
+            32.06
+          ]
+        ],
+        "start_year": 1937,
+        "end_year": 1937,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "resistance"
+        ]
+      }
+    ],
+    "source_ids": [
+      "resistance"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中国守军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "xuzhou",
+    "name": "徐州会战（含台儿庄战役）",
+    "phase": "抗日战争",
+    "start_date": "1938-01",
+    "end_date": "1938-05",
+    "location": "台儿庄",
+    "coords": [
+      117.73,
+      34.56
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "台儿庄获胜后，中国主力撤出徐州包围圈。",
+    "stages": [
+      {
+        "date": "1938-01",
+        "location": "台儿庄",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1938-05",
+        "location": "台儿庄",
+        "description": "台儿庄获胜后，中国主力撤出徐州包围圈。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "济南 → 台儿庄 → 徐州",
+        "coordinates": [
+          [
+            117.12,
+            36.65
+          ],
+          [
+            117.73,
+            34.56
+          ],
+          [
+            117.28,
+            34.21
+          ]
+        ],
+        "start_year": 1938,
+        "end_year": 1938,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "wuhan",
+    "name": "武汉会战",
+    "phase": "抗日战争",
+    "start_date": "1938-06",
+    "end_date": "1938-10",
+    "location": "武汉",
+    "coords": [
+      114.3,
+      30.59
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队转移，抗战进入战略相持阶段。",
+    "stages": [
+      {
+        "date": "1938-06",
+        "location": "武汉",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1938-10",
+        "location": "武汉",
+        "description": "中国军队转移，抗战进入战略相持阶段。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "南京 → 九江 → 武汉",
+        "coordinates": [
+          [
+            118.8,
+            32.06
+          ],
+          [
+            115.99,
+            29.71
+          ],
+          [
+            114.3,
+            30.59
+          ]
+        ],
+        "start_year": 1938,
+        "end_year": 1938,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "nanchang1939",
+    "name": "南昌会战",
+    "phase": "抗日战争",
+    "start_date": "1939-03",
+    "end_date": "1939-05",
+    "location": "南昌",
+    "coords": [
+      115.86,
+      28.68
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "南昌失守，中国军队组织反击。",
+    "stages": [
+      {
+        "date": "1939-03",
+        "location": "南昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1939-05",
+        "location": "南昌",
+        "description": "南昌失守，中国军队组织反击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "九江 → 南昌",
+        "coordinates": [
+          [
+            115.99,
+            29.71
+          ],
+          [
+            115.86,
+            28.68
+          ]
+        ],
+        "start_year": 1939,
+        "end_year": 1939,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "suizao",
+    "name": "随枣会战",
+    "phase": "抗日战争",
+    "start_date": "1939-05",
+    "end_date": "1939-05",
+    "location": "随州",
+    "coords": [
+      113.38,
+      31.69
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队在鄂北实施抵抗与反击。",
+    "stages": [
+      {
+        "date": "1939-05",
+        "location": "随州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1939-05",
+        "location": "随州",
+        "description": "中国军队在鄂北实施抵抗与反击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "武汉 → 随州 → 枣阳",
+        "coordinates": [
+          [
+            114.3,
+            30.59
+          ],
+          [
+            113.38,
+            31.69
+          ],
+          [
+            112.77,
+            32.13
+          ]
+        ],
+        "start_year": 1939,
+        "end_year": 1939,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "changsha1",
+    "name": "第一次长沙会战",
+    "phase": "抗日战争",
+    "start_date": "1939-09",
+    "end_date": "1939-10",
+    "location": "长沙",
+    "coords": [
+      112.94,
+      28.23
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "日军进攻受阻后撤退。",
+    "stages": [
+      {
+        "date": "1939-09",
+        "location": "长沙",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1939-10",
+        "location": "长沙",
+        "description": "日军进攻受阻后撤退。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "岳阳 → 长沙",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            112.94,
+            28.23
+          ]
+        ],
+        "start_year": 1939,
+        "end_year": 1939,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "guinan",
+    "name": "桂南会战（含昆仑关战役）",
+    "phase": "抗日战争",
+    "start_date": "1939-11",
+    "end_date": "1940-11",
+    "location": "南宁",
+    "coords": [
+      108.32,
+      22.82
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队反击昆仑关，桂南经历长期争夺。",
+    "stages": [
+      {
+        "date": "1939-11",
+        "location": "南宁",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1940-11",
+        "location": "南宁",
+        "description": "中国军队反击昆仑关，桂南经历长期争夺。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "huangtuling",
+    "name": "黄土岭战斗",
+    "phase": "抗日战争",
+    "start_date": "1939-11",
+    "end_date": "1939-11",
+    "location": "黄土岭",
+    "coords": [
+      115.12,
+      39.43
+    ],
+    "participants": [
+      "八路军晋察冀部队",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "八路军在山区打击日军。",
+    "stages": [
+      {
+        "date": "1939-11",
+        "location": "黄土岭",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1939-11",
+        "location": "黄土岭",
+        "description": "八路军在山区打击日军。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "八路军晋察冀部队",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zaoyi",
+    "name": "枣宜会战",
+    "phase": "抗日战争",
+    "start_date": "1940-05",
+    "end_date": "1940-06",
+    "location": "宜昌",
+    "coords": [
+      111.29,
+      30.69
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "宜昌失守，张自忠在会战中牺牲。",
+    "stages": [
+      {
+        "date": "1940-05",
+        "location": "宜昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1940-06",
+        "location": "宜昌",
+        "description": "宜昌失守，张自忠在会战中牺牲。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "枣阳 → 宜昌",
+        "coordinates": [
+          [
+            112.77,
+            32.13
+          ],
+          [
+            111.29,
+            30.69
+          ]
+        ],
+        "start_year": 1940,
+        "end_year": 1940,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "hundred",
+    "name": "百团大战",
+    "phase": "抗日战争",
+    "start_date": "1940-08",
+    "end_date": "1941-01",
+    "location": "井陉",
+    "coords": [
+      114.14,
+      38.03
+    ],
+    "participants": [
+      "八路军",
+      "日伪军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "华北交通破袭与反扫荡作战。",
+    "stages": [
+      {
+        "date": "1940-08",
+        "location": "井陉",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1941-01",
+        "location": "井陉",
+        "description": "华北交通破袭与反扫荡作战。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "八路军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日伪军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "yunan",
+    "name": "豫南会战",
+    "phase": "抗日战争",
+    "start_date": "1941-01",
+    "end_date": "1941-02",
+    "location": "南阳",
+    "coords": [
+      112.53,
+      32.99
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队在豫南阻击日军。",
+    "stages": [
+      {
+        "date": "1941-01",
+        "location": "南阳",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1941-02",
+        "location": "南阳",
+        "description": "中国军队在豫南阻击日军。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shanggao",
+    "name": "上高会战",
+    "phase": "抗日战争",
+    "start_date": "1941-03",
+    "end_date": "1941-04",
+    "location": "上高",
+    "coords": [
+      114.92,
+      28.24
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队在赣北反击。",
+    "stages": [
+      {
+        "date": "1941-03",
+        "location": "上高",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1941-04",
+        "location": "上高",
+        "description": "中国军队在赣北反击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "南昌 → 上高",
+        "coordinates": [
+          [
+            115.86,
+            28.68
+          ],
+          [
+            114.92,
+            28.24
+          ]
+        ],
+        "start_year": 1941,
+        "end_year": 1941,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zhongtiao",
+    "name": "中条山会战",
+    "phase": "抗日战争",
+    "start_date": "1941-05",
+    "end_date": "1941-06",
+    "location": "运城",
+    "coords": [
+      111.01,
+      35.03
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国守军遭受重大损失。",
+    "stages": [
+      {
+        "date": "1941-05",
+        "location": "运城",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1941-06",
+        "location": "运城",
+        "description": "中国守军遭受重大损失。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "太原 → 运城",
+        "coordinates": [
+          [
+            112.55,
+            37.87
+          ],
+          [
+            111.01,
+            35.03
+          ]
+        ],
+        "start_year": 1941,
+        "end_year": 1941,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "changsha2",
+    "name": "第二次长沙会战",
+    "phase": "抗日战争",
+    "start_date": "1941-09",
+    "end_date": "1941-10",
+    "location": "长沙",
+    "coords": [
+      112.94,
+      28.23
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "日军进攻长沙后撤退。",
+    "stages": [
+      {
+        "date": "1941-09",
+        "location": "长沙",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1941-10",
+        "location": "长沙",
+        "description": "日军进攻长沙后撤退。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "岳阳 → 长沙",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            112.94,
+            28.23
+          ]
+        ],
+        "start_year": 1941,
+        "end_year": 1941,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "changsha3",
+    "name": "第三次长沙会战",
+    "phase": "抗日战争",
+    "start_date": "1941-12",
+    "end_date": "1942-01",
+    "location": "长沙",
+    "coords": [
+      112.94,
+      28.23
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队反击，日军撤退。",
+    "stages": [
+      {
+        "date": "1941-12",
+        "location": "长沙",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1942-01",
+        "location": "长沙",
+        "description": "中国军队反击，日军撤退。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "岳阳 → 长沙",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            112.94,
+            28.23
+          ]
+        ],
+        "start_year": 1941,
+        "end_year": 1942,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zhegan",
+    "name": "浙赣会战",
+    "phase": "抗日战争",
+    "start_date": "1942-05",
+    "end_date": "1942-09",
+    "location": "衢州",
+    "coords": [
+      118.87,
+      28.94
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "日军破坏浙赣交通和航空设施，中国军队抵抗。",
+    "stages": [
+      {
+        "date": "1942-05",
+        "location": "衢州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1942-09",
+        "location": "衢州",
+        "description": "日军破坏浙赣交通和航空设施，中国军队抵抗。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "杭州 → 金华 → 衢州",
+        "coordinates": [
+          [
+            120.15,
+            30.27
+          ],
+          [
+            119.65,
+            29.08
+          ],
+          [
+            118.87,
+            28.94
+          ]
+        ],
+        "start_year": 1942,
+        "end_year": 1942,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "exi",
+    "name": "鄂西会战",
+    "phase": "抗日战争",
+    "start_date": "1943-05",
+    "end_date": "1943-06",
+    "location": "宜昌",
+    "coords": [
+      111.29,
+      30.69
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队在长江上游门户抵抗。",
+    "stages": [
+      {
+        "date": "1943-05",
+        "location": "宜昌",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1943-06",
+        "location": "宜昌",
+        "description": "中国军队在长江上游门户抵抗。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "武汉 → 宜昌",
+        "coordinates": [
+          [
+            114.3,
+            30.59
+          ],
+          [
+            111.29,
+            30.69
+          ]
+        ],
+        "start_year": 1943,
+        "end_year": 1943,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "changde",
+    "name": "常德会战",
+    "phase": "抗日战争",
+    "start_date": "1943-11",
+    "end_date": "1943-12",
+    "location": "常德",
+    "coords": [
+      111.69,
+      29.04
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "常德经历激战与反复争夺。",
+    "stages": [
+      {
+        "date": "1943-11",
+        "location": "常德",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1943-12",
+        "location": "常德",
+        "description": "常德经历激战与反复争夺。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "岳阳 → 常德",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            111.69,
+            29.04
+          ]
+        ],
+        "start_year": 1943,
+        "end_year": 1943,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "cheqiao",
+    "name": "车桥战役",
+    "phase": "抗日战争",
+    "start_date": "1944-03",
+    "end_date": "1944-03",
+    "location": "车桥",
+    "coords": [
+      119.42,
+      33.57
+    ],
+    "participants": [
+      "新四军",
+      "日伪军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "新四军攻克据点，改善苏中战场联系。",
+    "stages": [
+      {
+        "date": "1944-03",
+        "location": "车桥",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1944-03",
+        "location": "车桥",
+        "description": "新四军攻克据点，改善苏中战场联系。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "新四军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日伪军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "yuzhong",
+    "name": "豫中会战",
+    "phase": "抗日战争",
+    "start_date": "1944-04",
+    "end_date": "1944-06",
+    "location": "洛阳",
+    "coords": [
+      112.45,
+      34.62
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "日军沿平汉线进攻，洛阳失守。",
+    "stages": [
+      {
+        "date": "1944-04",
+        "location": "洛阳",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1944-06",
+        "location": "洛阳",
+        "description": "日军沿平汉线进攻，洛阳失守。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "郑州 → 洛阳",
+        "coordinates": [
+          [
+            113.63,
+            34.75
+          ],
+          [
+            112.45,
+            34.62
+          ]
+        ],
+        "start_year": 1944,
+        "end_year": 1944,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "changheng",
+    "name": "长衡会战（含衡阳保卫战）",
+    "phase": "抗日战争",
+    "start_date": "1944-05",
+    "end_date": "1944-08",
+    "location": "衡阳",
+    "coords": [
+      112.57,
+      26.89
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "长沙、衡阳先后失守。",
+    "stages": [
+      {
+        "date": "1944-05",
+        "location": "衡阳",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1944-08",
+        "location": "衡阳",
+        "description": "长沙、衡阳先后失守。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "岳阳 → 长沙 → 衡阳",
+        "coordinates": [
+          [
+            113.13,
+            29.37
+          ],
+          [
+            112.94,
+            28.23
+          ],
+          [
+            112.57,
+            26.89
+          ]
+        ],
+        "start_year": 1944,
+        "end_year": 1944,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "guiliu",
+    "name": "桂柳会战",
+    "phase": "抗日战争",
+    "start_date": "1944-08",
+    "end_date": "1944-12",
+    "location": "桂林",
+    "coords": [
+      110.29,
+      25.27
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "桂林、柳州失守，日军打通部分大陆交通线。",
+    "stages": [
+      {
+        "date": "1944-08",
+        "location": "桂林",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1944-12",
+        "location": "桂林",
+        "description": "桂林、柳州失守，日军打通部分大陆交通线。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "衡阳 → 桂林 → 柳州",
+        "coordinates": [
+          [
+            112.57,
+            26.89
+          ],
+          [
+            110.29,
+            25.27
+          ],
+          [
+            109.42,
+            24.33
+          ]
+        ],
+        "start_year": 1944,
+        "end_year": 1944,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "yuxiebei",
+    "name": "豫西鄂北会战",
+    "phase": "抗日战争",
+    "start_date": "1945-03",
+    "end_date": "1945-05",
+    "location": "南阳",
+    "coords": [
+      112.53,
+      32.99
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队在豫西鄂北阻击。",
+    "stages": [
+      {
+        "date": "1945-03",
+        "location": "南阳",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1945-05",
+        "location": "南阳",
+        "description": "中国军队在豫西鄂北阻击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "洛阳 → 南阳",
+        "coordinates": [
+          [
+            112.45,
+            34.62
+          ],
+          [
+            112.53,
+            32.99
+          ]
+        ],
+        "start_year": 1945,
+        "end_year": 1945,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "xiangxi",
+    "name": "湘西会战（雪峰山战役）",
+    "phase": "抗日战争",
+    "start_date": "1945-04",
+    "end_date": "1945-06",
+    "location": "雪峰山",
+    "coords": [
+      110.3,
+      27.3
+    ],
+    "participants": [
+      "国民革命军",
+      "日军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "中国军队挫败日军进攻。",
+    "stages": [
+      {
+        "date": "1945-04",
+        "location": "雪峰山",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1945-06",
+        "location": "雪峰山",
+        "description": "中国军队挫败日军进攻。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "japan",
+        "label": "衡阳 → 雪峰山",
+        "coordinates": [
+          [
+            112.57,
+            26.89
+          ],
+          [
+            110.3,
+            27.3
+          ]
+        ],
+        "start_year": 1945,
+        "end_year": 1945,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "campaign22"
+        ]
+      }
+    ],
+    "source_ids": [
+      "campaign22"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "国民革命军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "日军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "gaoyou",
+    "name": "高邮战役",
+    "phase": "抗日战争",
+    "start_date": "1945-12",
+    "end_date": "1945-12",
+    "location": "高邮",
+    "coords": [
+      119.45,
+      32.78
+    ],
+    "participants": [
+      "新四军",
+      "拒绝投降的日伪军"
+    ],
+    "summary": "抗日战争阶段的重要军事行动。",
+    "result": "新四军接受守军投降并控制高邮。",
+    "stages": [
+      {
+        "date": "1945-12",
+        "location": "高邮",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1945-12",
+        "location": "高邮",
+        "description": "新四军接受守军投降并控制高邮。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "新四军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "拒绝投降的日伪军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shangdang",
+    "name": "上党战役",
+    "phase": "解放战争",
+    "start_date": "1945-09",
+    "end_date": "1945-10",
+    "location": "太行山",
+    "coords": [
+      113.57,
+      36.84
+    ],
+    "participants": [
+      "晋冀鲁豫部队",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放区部队在上党地区作战。",
+    "stages": [
+      {
+        "date": "1945-09",
+        "location": "太行山",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1945-10",
+        "location": "太行山",
+        "description": "解放区部队在上党地区作战。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "晋冀鲁豫部队",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zhongyuan",
+    "name": "中原突围",
+    "phase": "解放战争",
+    "start_date": "1946-06",
+    "end_date": "1946-08",
+    "location": "随州",
+    "coords": [
+      113.38,
+      31.69
+    ],
+    "participants": [
+      "中原解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "中原部队突破包围。",
+    "stages": [
+      {
+        "date": "1946-06",
+        "location": "随州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1946-08",
+        "location": "随州",
+        "description": "中原部队突破包围。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "中原解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "suzhong",
+    "name": "苏中战役",
+    "phase": "解放战争",
+    "start_date": "1946-07",
+    "end_date": "1946-08",
+    "location": "泰兴",
+    "coords": [
+      120.05,
+      32.17
+    ],
+    "participants": [
+      "华中野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军连续机动作战获胜。",
+    "stages": [
+      {
+        "date": "1946-07",
+        "location": "泰兴",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1946-08",
+        "location": "泰兴",
+        "description": "解放军连续机动作战获胜。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华中野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "subei",
+    "name": "宿北战役",
+    "phase": "解放战争",
+    "start_date": "1946-12",
+    "end_date": "1946-12",
+    "location": "宿北",
+    "coords": [
+      118.27,
+      34.05
+    ],
+    "participants": [
+      "华东解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军在宿迁北部歼敌。",
+    "stages": [
+      {
+        "date": "1946-12",
+        "location": "宿北",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1946-12",
+        "location": "宿北",
+        "description": "解放军在宿迁北部歼敌。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "laiwu",
+    "name": "莱芜战役",
+    "phase": "解放战争",
+    "start_date": "1947-02",
+    "end_date": "1947-02",
+    "location": "莱芜",
+    "coords": [
+      117.68,
+      36.21
+    ],
+    "participants": [
+      "华东野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "华东野战军取得战役胜利。",
+    "stages": [
+      {
+        "date": "1947-02",
+        "location": "莱芜",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-02",
+        "location": "莱芜",
+        "description": "华东野战军取得战役胜利。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "临沂 → 莱芜",
+        "coordinates": [
+          [
+            118.36,
+            35.1
+          ],
+          [
+            117.68,
+            36.21
+          ]
+        ],
+        "start_year": 1947,
+        "end_year": 1947,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "yangmahe",
+    "name": "青化砭、羊马河与蟠龙战役",
+    "phase": "解放战争",
+    "start_date": "1947-03",
+    "end_date": "1947-05",
+    "location": "羊马河",
+    "coords": [
+      109.74,
+      37.09
+    ],
+    "participants": [
+      "西北野战部队",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "陕北解放军机动反击。",
+    "stages": [
+      {
+        "date": "1947-03",
+        "location": "羊马河",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-05",
+        "location": "羊马河",
+        "description": "陕北解放军机动反击。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "延安 → 羊马河",
+        "coordinates": [
+          [
+            109.49,
+            36.6
+          ],
+          [
+            109.74,
+            37.09
+          ]
+        ],
+        "start_year": 1947,
+        "end_year": 1947,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "西北野战部队",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "menglianggu",
+    "name": "孟良崮战役",
+    "phase": "解放战争",
+    "start_date": "1947-05-13",
+    "end_date": "1947-05-16",
+    "location": "孟良崮",
+    "coords": [
+      118.05,
+      35.57
+    ],
+    "participants": [
+      "华东野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "整编第七十四师被歼。",
+    "stages": [
+      {
+        "date": "1947-05-13",
+        "location": "孟良崮",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-05-16",
+        "location": "孟良崮",
+        "description": "整编第七十四师被歼。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "临沂 → 孟良崮",
+        "coordinates": [
+          [
+            118.36,
+            35.1
+          ],
+          [
+            118.05,
+            35.57
+          ]
+        ],
+        "start_year": 1947,
+        "end_year": 1947,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "dabieshan",
+    "name": "刘邓大军挺进大别山",
+    "phase": "解放战争",
+    "start_date": "1947-08",
+    "end_date": "1947-08",
+    "location": "大别山",
+    "coords": [
+      115.41,
+      31.32
+    ],
+    "participants": [
+      "晋冀鲁豫野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军进入战略进攻阶段。",
+    "stages": [
+      {
+        "date": "1947-08",
+        "location": "大别山",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-08",
+        "location": "大别山",
+        "description": "解放军进入战略进攻阶段。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "晋冀鲁豫野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shajiadian",
+    "name": "沙家店战役",
+    "phase": "解放战争",
+    "start_date": "1947-08",
+    "end_date": "1947-08",
+    "location": "沙家店",
+    "coords": [
+      110.21,
+      38.0
+    ],
+    "participants": [
+      "西北野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "西北野战军取得陕北重要胜利。",
+    "stages": [
+      {
+        "date": "1947-08",
+        "location": "沙家店",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-08",
+        "location": "沙家店",
+        "description": "西北野战军取得陕北重要胜利。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "羊马河 → 沙家店",
+        "coordinates": [
+          [
+            109.74,
+            37.09
+          ],
+          [
+            110.21,
+            38.0
+          ]
+        ],
+        "start_year": 1947,
+        "end_year": 1947,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "西北野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shijiazhuang",
+    "name": "石家庄战役",
+    "phase": "解放战争",
+    "start_date": "1947-11",
+    "end_date": "1947-11",
+    "location": "石家庄",
+    "coords": [
+      114.51,
+      38.04
+    ],
+    "participants": [
+      "晋察冀野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军攻克重要铁路枢纽。",
+    "stages": [
+      {
+        "date": "1947-11",
+        "location": "石家庄",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1947-11",
+        "location": "石家庄",
+        "description": "解放军攻克重要铁路枢纽。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "晋察冀野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "yudong",
+    "name": "豫东战役",
+    "phase": "解放战争",
+    "start_date": "1948-06",
+    "end_date": "1948-07",
+    "location": "开封",
+    "coords": [
+      114.31,
+      34.8
+    ],
+    "participants": [
+      "华东野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "攻打开封与睢杞地区作战。",
+    "stages": [
+      {
+        "date": "1948-06",
+        "location": "开封",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1948-07",
+        "location": "开封",
+        "description": "攻打开封与睢杞地区作战。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "开封 → 睢杞",
+        "coordinates": [
+          [
+            114.31,
+            34.8
+          ],
+          [
+            115.05,
+            34.45
+          ]
+        ],
+        "start_year": 1948,
+        "end_year": 1948,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "jinan",
+    "name": "济南战役",
+    "phase": "解放战争",
+    "start_date": "1948-09-16",
+    "end_date": "1948-09-24",
+    "location": "济南",
+    "coords": [
+      117.12,
+      36.65
+    ],
+    "participants": [
+      "华东野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "济南解放。",
+    "stages": [
+      {
+        "date": "1948-09-16",
+        "location": "济南",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1948-09-24",
+        "location": "济南",
+        "description": "济南解放。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "liaoshen",
+    "name": "辽沈战役",
+    "phase": "解放战争",
+    "start_date": "1948-09-12",
+    "end_date": "1948-11-02",
+    "location": "锦州",
+    "coords": [
+      121.13,
+      41.1
+    ],
+    "participants": [
+      "东北野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "东北战场发生决定性转变。",
+    "stages": [
+      {
+        "date": "1948-09-12",
+        "location": "锦州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1948-11-02",
+        "location": "锦州",
+        "description": "东北战场发生决定性转变。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "锦州 → 沈阳",
+        "coordinates": [
+          [
+            121.13,
+            41.1
+          ],
+          [
+            123.43,
+            41.81
+          ]
+        ],
+        "start_year": 1948,
+        "end_year": 1948,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      },
+      {
+        "faction": "ccp",
+        "label": "长春 → 沈阳",
+        "coordinates": [
+          [
+            125.32,
+            43.82
+          ],
+          [
+            123.43,
+            41.81
+          ]
+        ],
+        "start_year": 1948,
+        "end_year": 1948,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "东北野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "huaihai",
+    "name": "淮海战役",
+    "phase": "解放战争",
+    "start_date": "1948-11-06",
+    "end_date": "1949-01-10",
+    "location": "徐州",
+    "coords": [
+      117.28,
+      34.21
+    ],
+    "participants": [
+      "华东及中原野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "徐州周边战略决战获胜。",
+    "stages": [
+      {
+        "date": "1948-11",
+        "location": "碾庄",
+        "description": "第一阶段，围歼黄百韬兵团。"
+      },
+      {
+        "date": "1948-11—12",
+        "location": "双堆集",
+        "description": "第二阶段，围歼黄维兵团。"
+      },
+      {
+        "date": "1949-01",
+        "location": "陈官庄",
+        "description": "第三阶段，战役结束。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "碾庄 → 双堆集 → 陈官庄",
+        "coordinates": [
+          [
+            117.82,
+            34.34
+          ],
+          [
+            116.91,
+            33.41
+          ]
+        ],
+        "start_year": 1948,
+        "end_year": 1948,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      },
+      {
+        "faction": "ccp",
+        "label": "碾庄 → 双堆集 → 陈官庄",
+        "coordinates": [
+          [
+            116.91,
+            33.41
+          ],
+          [
+            116.67,
+            34.04
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华东及中原野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "pingjin",
+    "name": "平津战役",
+    "phase": "解放战争",
+    "start_date": "1948-11-29",
+    "end_date": "1949-01-31",
+    "location": "天津",
+    "coords": [
+      117.2,
+      39.13
+    ],
+    "participants": [
+      "东北及华北解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "天津解放，北平和平解放。",
+    "stages": [
+      {
+        "date": "1948-12",
+        "location": "新保安、张家口",
+        "description": "分割北平、天津及张家口地区守军。"
+      },
+      {
+        "date": "1949-01-15",
+        "location": "天津",
+        "description": "天津解放。"
+      },
+      {
+        "date": "1949-01-31",
+        "location": "北平",
+        "description": "北平和平解放。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "张家口 → 新保安 → 天津 → 北京",
+        "coordinates": [
+          [
+            114.88,
+            40.81
+          ],
+          [
+            115.53,
+            40.42
+          ]
+        ],
+        "start_year": 1948,
+        "end_year": 1948,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "东北及华北解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "dujiang",
+    "name": "渡江战役",
+    "phase": "解放战争",
+    "start_date": "1949-04-20",
+    "end_date": "1949-06-02",
+    "location": "南京",
+    "coords": [
+      118.8,
+      32.06
+    ],
+    "participants": [
+      "人民解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军渡过长江，南京、上海相继解放。",
+    "stages": [
+      {
+        "date": "1949-04-20",
+        "location": "南京",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-06-02",
+        "location": "南京",
+        "description": "解放军渡过长江，南京、上海相继解放。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "合肥 → 南京 → 上海",
+        "coordinates": [
+          [
+            117.23,
+            31.82
+          ],
+          [
+            118.8,
+            32.06
+          ],
+          [
+            121.47,
+            31.23
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "人民解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "taiyuan",
+    "name": "太原战役",
+    "phase": "解放战争",
+    "start_date": "1948-10",
+    "end_date": "1949-04",
+    "location": "太原",
+    "coords": [
+      112.55,
+      37.87
+    ],
+    "participants": [
+      "华北解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "太原解放。",
+    "stages": [
+      {
+        "date": "1948-10",
+        "location": "太原",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-04",
+        "location": "太原",
+        "description": "太原解放。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "华北解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "shanghai1949",
+    "name": "上海战役",
+    "phase": "解放战争",
+    "start_date": "1949-05-12",
+    "end_date": "1949-05-27",
+    "location": "上海",
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "participants": [
+      "第三野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "上海解放，注重城市设施保护。",
+    "stages": [
+      {
+        "date": "1949-05-12",
+        "location": "上海",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-05-27",
+        "location": "上海",
+        "description": "上海解放，注重城市设施保护。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "杭州 → 上海",
+        "coordinates": [
+          [
+            120.15,
+            30.27
+          ],
+          [
+            121.47,
+            31.23
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "第三野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "fuzhou",
+    "name": "福州战役",
+    "phase": "解放战争",
+    "start_date": "1949-08",
+    "end_date": "1949-08",
+    "location": "福州",
+    "coords": [
+      119.3,
+      26.08
+    ],
+    "participants": [
+      "第三野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "福州解放。",
+    "stages": [
+      {
+        "date": "1949-08",
+        "location": "福州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-08",
+        "location": "福州",
+        "description": "福州解放。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "杭州 → 福州",
+        "coordinates": [
+          [
+            120.15,
+            30.27
+          ],
+          [
+            119.3,
+            26.08
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "第三野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "lanzhou",
+    "name": "兰州战役",
+    "phase": "解放战争",
+    "start_date": "1949-08",
+    "end_date": "1949-08",
+    "location": "兰州",
+    "coords": [
+      103.83,
+      36.06
+    ],
+    "participants": [
+      "第一野战军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "兰州解放，西北战局改变。",
+    "stages": [
+      {
+        "date": "1949-08",
+        "location": "兰州",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-08",
+        "location": "兰州",
+        "description": "兰州解放，西北战局改变。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "西安 → 兰州",
+        "coordinates": [
+          [
+            108.94,
+            34.26
+          ],
+          [
+            103.83,
+            36.06
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "chronicle"
+        ]
+      }
+    ],
+    "source_ids": [
+      "chronicle"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "第一野战军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "jinmen",
+    "name": "金门战斗",
+    "phase": "解放战争",
+    "start_date": "1949-10-24",
+    "end_date": "1949-10-27",
+    "location": "金门",
+    "coords": [
+      118.32,
+      24.43
+    ],
+    "participants": [
+      "人民解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军登陆作战失利，国民党军继续控制金门。",
+    "stages": [
+      {
+        "date": "1949-10-24",
+        "location": "金门",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-10-27",
+        "location": "金门",
+        "description": "解放军登陆作战失利，国民党军继续控制金门。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "厦门 → 金门",
+        "coordinates": [
+          [
+            118.09,
+            24.48
+          ],
+          [
+            118.32,
+            24.43
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "zhoushan"
+        ]
+      }
+    ],
+    "source_ids": [
+      "zhoushan"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "人民解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "dengbu",
+    "name": "登步岛战斗",
+    "phase": "解放战争",
+    "start_date": "1949-11-03",
+    "end_date": "1949-11-05",
+    "location": "登步岛",
+    "coords": [
+      122.27,
+      29.9
+    ],
+    "participants": [
+      "人民解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "解放军作战后撤出登步岛。",
+    "stages": [
+      {
+        "date": "1949-11-03",
+        "location": "登步岛",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-11-05",
+        "location": "登步岛",
+        "description": "解放军作战后撤出登步岛。"
+      }
+    ],
+    "routes": [],
+    "source_ids": [
+      "zhoushan"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "人民解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "chengdu",
+    "name": "成都战役",
+    "phase": "解放战争",
+    "start_date": "1949-12",
+    "end_date": "1949-12",
+    "location": "成都",
+    "coords": [
+      104.07,
+      30.67
+    ],
+    "participants": [
+      "人民解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "成都解放，西南主要战役结束。",
+    "stages": [
+      {
+        "date": "1949-12",
+        "location": "成都",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1949-12",
+        "location": "成都",
+        "description": "成都解放，西南主要战役结束。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "重庆 → 成都",
+        "coordinates": [
+          [
+            106.55,
+            29.56
+          ],
+          [
+            104.07,
+            30.67
+          ]
+        ],
+        "start_year": 1949,
+        "end_year": 1949,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "hainan"
+        ]
+      }
+    ],
+    "source_ids": [
+      "hainan"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "人民解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "hainan",
+    "name": "海南岛战役",
+    "phase": "解放战争",
+    "start_date": "1950-03",
+    "end_date": "1950-05-01",
+    "location": "海口",
+    "coords": [
+      110.2,
+      20.04
+    ],
+    "participants": [
+      "第四野战军与琼崖纵队",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "渡海部队与岛上部队协同，海南岛解放。",
+    "stages": [
+      {
+        "date": "1950-03",
+        "location": "海口",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1950-05-01",
+        "location": "海口",
+        "description": "渡海部队与岛上部队协同，海南岛解放。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "雷州 → 海口 → 三亚",
+        "coordinates": [
+          [
+            110.1,
+            20.91
+          ],
+          [
+            110.2,
+            20.04
+          ],
+          [
+            109.51,
+            18.25
+          ]
+        ],
+        "start_year": 1950,
+        "end_year": 1950,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "hainan"
+        ]
+      }
+    ],
+    "source_ids": [
+      "hainan"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "other",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "第四野战军与琼崖纵队",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "other",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  },
+  {
+    "id": "zhoushan",
+    "name": "舟山群岛解放",
+    "phase": "解放战争",
+    "start_date": "1950-05-13",
+    "end_date": "1950-05-19",
+    "location": "舟山",
+    "coords": [
+      122.21,
+      29.99
+    ],
+    "participants": [
+      "人民解放军",
+      "国民党军"
+    ],
+    "summary": "解放战争阶段的重要军事行动。",
+    "result": "国民党军撤离后解放军登岛。",
+    "stages": [
+      {
+        "date": "1950-05-13",
+        "location": "舟山",
+        "description": "战役开始阶段；日期仅到月份时不补造具体日。"
+      },
+      {
+        "date": "1950-05-19",
+        "location": "舟山",
+        "description": "国民党军撤离后解放军登岛。"
+      }
+    ],
+    "routes": [
+      {
+        "faction": "ccp",
+        "label": "宁波 → 舟山",
+        "coordinates": [
+          [
+            121.55,
+            29.87
+          ],
+          [
+            122.21,
+            29.99
+          ]
+        ],
+        "start_year": 1950,
+        "end_year": 1950,
+        "exact": false,
+        "precision": "source_direction",
+        "source_ids": [
+          "zhoushan"
+        ]
+      }
+    ],
+    "source_ids": [
+      "zhoushan"
+    ],
+    "verification": "reference_summary",
+    "precision_note": "月级时间和城市／战区概位；战役目录、阶段和推进曲线按来源条目整理",
+    "faction": "ccp",
+    "branch": "陆军",
+    "commanders": null,
+    "forces": [
+      {
+        "name": "人民解放军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      },
+      {
+        "name": "国民党军",
+        "faction": "ccp",
+        "branch": "陆军",
+        "strength": null,
+        "role": "参战方",
+        "strength_precision": "not_published"
+      }
+    ]
+  }
+]

@@ -1,0 +1,760 @@
+{
+  "years": [
+    1921,
+    1922,
+    1923,
+    1924,
+    1925,
+    1926,
+    1927,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1935,
+    1936,
+    1937,
+    1938,
+    1939,
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949,
+    1950
+  ],
+  "battle_count": 78,
+  "postwar_battle_count": 18,
+  "postwar_years": [1950, 1951, 1952, 1953, 1954, 1958, 1962, 1969, 1974, 1979, 1984, 1985, 1986, 1987, 1988, 2024],
+  "person_count": 20,
+  "node_count": 285,
+  "phases": {
+    "北伐": 4,
+    "土地革命战争": 10,
+    "长征": 7,
+    "抗日战争": 32,
+    "解放战争": 25
+  },
+  "battle_checklist": [
+    {
+      "id": "beifa_tingsi",
+      "name": "汀泗桥战役",
+      "phase": "北伐",
+      "source_ids": [
+        "northern"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "beifa_hesheng",
+      "name": "贺胜桥战役",
+      "phase": "北伐",
+      "source_ids": [
+        "northern"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "beifa_wuchang",
+      "name": "武昌战役",
+      "phase": "北伐",
+      "source_ids": [
+        "northern"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "beifa_nanchang",
+      "name": "南昌战役",
+      "phase": "北伐",
+      "source_ids": [
+        "northern2"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "nanchang_uprising",
+      "name": "南昌起义及南下",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "autumn",
+      "name": "秋收起义与转向井冈山",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "mao2"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "guangzhou_uprising",
+      "name": "广州起义",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "pingjiang",
+      "name": "平江起义",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "pingjiang"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "huangyang",
+      "name": "黄洋界保卫战",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "mao2"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "encirclement1",
+      "name": "中央苏区第一次反围剿",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "soviet"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "encirclement2",
+      "name": "中央苏区第二次反围剿",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "soviet"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "encirclement3",
+      "name": "中央苏区第三次反围剿",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "soviet"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "encirclement4",
+      "name": "中央苏区第四次反围剿",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "soviet"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "encirclement5",
+      "name": "中央苏区第五次反围剿",
+      "phase": "土地革命战争",
+      "source_ids": [
+        "soviet"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "xiangjiang",
+      "name": "湘江战役",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "chishui",
+      "name": "四渡赤水",
+      "phase": "长征",
+      "source_ids": [
+        "mao3"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "jinsha",
+      "name": "巧渡金沙江",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "luding",
+      "name": "强渡大渡河与飞夺泸定桥",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "lazikou",
+      "name": "腊子口战斗",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zhiluozhen",
+      "name": "直罗镇战役",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shanchengbao",
+      "name": "山城堡战役",
+      "phase": "长征",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "jiangqiao",
+      "name": "江桥抗战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "resistance"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shanghai1932",
+      "name": "一二八淞沪抗战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "resistance"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "greatwall",
+      "name": "长城抗战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "resistance"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "lugou",
+      "name": "卢沟桥抗战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shanghai1937",
+      "name": "淞沪会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "pingxingguan",
+      "name": "平型关战斗",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "xinkou",
+      "name": "忻口会战与太原保卫战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "nanjing",
+      "name": "南京保卫战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "resistance"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "xuzhou",
+      "name": "徐州会战（含台儿庄战役）",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "wuhan",
+      "name": "武汉会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "nanchang1939",
+      "name": "南昌会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "suizao",
+      "name": "随枣会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "changsha1",
+      "name": "第一次长沙会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "guinan",
+      "name": "桂南会战（含昆仑关战役）",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "huangtuling",
+      "name": "黄土岭战斗",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zaoyi",
+      "name": "枣宜会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "hundred",
+      "name": "百团大战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "yunan",
+      "name": "豫南会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shanggao",
+      "name": "上高会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zhongtiao",
+      "name": "中条山会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "changsha2",
+      "name": "第二次长沙会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "changsha3",
+      "name": "第三次长沙会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zhegan",
+      "name": "浙赣会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "exi",
+      "name": "鄂西会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "changde",
+      "name": "常德会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "cheqiao",
+      "name": "车桥战役",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "yuzhong",
+      "name": "豫中会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "changheng",
+      "name": "长衡会战（含衡阳保卫战）",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "guiliu",
+      "name": "桂柳会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "yuxiebei",
+      "name": "豫西鄂北会战",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "xiangxi",
+      "name": "湘西会战（雪峰山战役）",
+      "phase": "抗日战争",
+      "source_ids": [
+        "campaign22"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "gaoyou",
+      "name": "高邮战役",
+      "phase": "抗日战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shangdang",
+      "name": "上党战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zhongyuan",
+      "name": "中原突围",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "suzhong",
+      "name": "苏中战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "subei",
+      "name": "宿北战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "laiwu",
+      "name": "莱芜战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "yangmahe",
+      "name": "青化砭、羊马河与蟠龙战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "menglianggu",
+      "name": "孟良崮战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "dabieshan",
+      "name": "刘邓大军挺进大别山",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shajiadian",
+      "name": "沙家店战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shijiazhuang",
+      "name": "石家庄战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "yudong",
+      "name": "豫东战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "jinan",
+      "name": "济南战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "liaoshen",
+      "name": "辽沈战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "huaihai",
+      "name": "淮海战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "pingjin",
+      "name": "平津战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "dujiang",
+      "name": "渡江战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "taiyuan",
+      "name": "太原战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "shanghai1949",
+      "name": "上海战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "fuzhou",
+      "name": "福州战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "lanzhou",
+      "name": "兰州战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "chronicle"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "jinmen",
+      "name": "金门战斗",
+      "phase": "解放战争",
+      "source_ids": [
+        "zhoushan"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "dengbu",
+      "name": "登步岛战斗",
+      "phase": "解放战争",
+      "source_ids": [
+        "zhoushan"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "chengdu",
+      "name": "成都战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "hainan"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "hainan",
+      "name": "海南岛战役",
+      "phase": "解放战争",
+      "source_ids": [
+        "hainan"
+      ],
+      "status": "source_indexed"
+    },
+    {
+      "id": "zhoushan",
+      "name": "舟山群岛解放",
+      "phase": "解放战争",
+      "source_ids": [
+        "zhoushan"
+      ],
+      "status": "source_indexed"
+    }
+  ],
+  "scope": "1921—1950年度资料与建国后已收录的主要战役、军事行动目录；不将目录条目解释为连续年度战史。",
+  "geometry_status": "source_historical_context",
+  "open_items": [
+    "1921—1950年度控制范围按来源地名和时间字段记录；来源范围包络不等于实际控制边界。",
+    "战役日界和阶段推进线按来源条目记录；没有路线坐标的战役保留地点与阶段信息。",
+    "租界、边疆地方政权等特殊区域按来源范围字段单独展示。",
+    "人物时间线覆盖20位人物、每人至少10个带来源节点；来源节点按地点层级连线。"
+  ],
+  "updated_on": "2026-10-01",
+  "event_count": 1460
+}

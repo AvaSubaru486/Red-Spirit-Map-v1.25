@@ -1,0 +1,183 @@
+{
+  "ordinary": [],
+  "long_march": [
+    {
+      "id": "central_red_army",
+      "name": "中央红军（红一方面军）长征路线",
+      "color": "#b42318",
+      "faction": "ccp",
+      "granularity": "month",
+      "source_ids": [
+        "chronicle"
+      ],
+      "coordinates": [
+        [
+          116.03,
+          25.88
+        ],
+        [
+          111.07,
+          25.93
+        ],
+        [
+          106.93,
+          27.7
+        ],
+        [
+          106.2,
+          28.35
+        ],
+        [
+          100.22,
+          26.87
+        ],
+        [
+          102.23,
+          29.91
+        ],
+        [
+          103.6,
+          32.6
+        ],
+        [
+          105.05,
+          35.69
+        ],
+        [
+          108.18,
+          36.93
+        ]
+      ]
+    },
+    {
+      "id": "second_front_army",
+      "name": "红二方面军长征路线",
+      "color": "#d97706",
+      "faction": "ccp",
+      "granularity": "month",
+      "source_ids": [
+        "chronicle"
+      ],
+      "coordinates": [
+        [
+          110.16,
+          29.4
+        ],
+        [
+          108.69,
+          28.04
+        ],
+        [
+          99.99,
+          31.62
+        ],
+        [
+          105.71,
+          35.84
+        ],
+        [
+          106.3,
+          36.6
+        ]
+      ]
+    },
+    {
+      "id": "fourth_front_army",
+      "name": "红四方面军长征路线",
+      "color": "#2563eb",
+      "faction": "ccp",
+      "granularity": "month",
+      "source_ids": [
+        "chronicle"
+      ],
+      "coordinates": [
+        [
+          115.0,
+          30.0
+        ],
+        [
+          106.75,
+          31.87
+        ],
+        [
+          102.23,
+          29.91
+        ],
+        [
+          99.99,
+          31.62
+        ],
+        [
+          105.71,
+          35.84
+        ],
+        [
+          106.3,
+          36.6
+        ]
+      ]
+    },
+    {
+      "id": "twenty_fifth_army",
+      "name": "红二十五军长征路线",
+      "color": "#7c3aed",
+      "faction": "ccp",
+      "granularity": "month",
+      "source_ids": [
+        "chronicle"
+      ],
+      "coordinates": [
+        [
+          115.0,
+          32.0
+        ],
+        [
+          111.5,
+          34.7
+        ],
+        [
+          110.7,
+          35.6
+        ],
+        [
+          108.18,
+          36.93
+        ]
+      ]
+    }
+  ],
+  "anti_japanese": [
+    {
+      "id": "anti_japanese_theater",
+      "name": "敌后抗战与全国抗战节点",
+      "color": "#1d4ed8",
+      "coordinates": [
+        [
+          116.22,
+          39.85
+        ],
+        [
+          114.22,
+          39.38
+        ],
+        [
+          113.62,
+          37.79
+        ],
+        [
+          117.73,
+          34.56
+        ],
+        [
+          109.48,
+          36.58
+        ],
+        [
+          108.94,
+          34.26
+        ]
+      ]
+    }
+  ],
+  "person": []
+}

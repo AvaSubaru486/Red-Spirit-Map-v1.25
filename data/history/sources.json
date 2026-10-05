@@ -1,0 +1,415 @@
+{
+  "chronicle": {
+    "id": "chronicle",
+    "title": "中国共产党一百年大事记（1921年7月－2021年6月）",
+    "url": "https://www.12371.cn/2021/06/28/ARTI1624828749818652.shtml",
+    "scope": "中共中央党史和文献研究院编纂的官方逐年大事记",
+    "checked_on": "2026-10-01",
+    "stored_content": "offline_html_archive",
+    "archive_path": "data/history/archive/chronicle_1921_2021.html",
+    "sha256": "3d38d280788da3488add5f732b27146ebdd34bfc87aafb983938b12d96312fd2",
+    "precision_note": "事件文字逐条摘自官方页面并保留日期定位；地点仅在原文出现明确地名时标注城市，否则标为全国范围。"
+  },
+  "northern": {
+    "id": "northern",
+    "title": "两湖战场的作战",
+    "url": "https://www.dswxyjy.org.cn/n/2013/0326/c244520-20916674.html",
+    "scope": "北伐两湖战场、主要战斗方向",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "northern2": {
+    "id": "northern2",
+    "title": "为什么说北伐战争发动了不止一次",
+    "url": "https://www.dswxyjy.org.cn/n/2013/1217/c244514-23863224.html",
+    "scope": "北伐阶段和南昌、武汉等节点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "soviet": {
+    "id": "soviet",
+    "title": "中央苏区的防空应对",
+    "url": "https://www.dswxyjy.org.cn/n1/2019/0203/c244523-30611832.html",
+    "scope": "中央苏区反围剿背景",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "resistance": {
+    "id": "resistance",
+    "title": "抗日战争的胜利是全民族抗战的胜利",
+    "url": "https://www.xinhuanet.com/politics/2015-08/02/c_128083932.htm",
+    "scope": "正面战场与敌后战场概述、主要会战名称",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "campaign22": {
+    "id": "campaign22",
+    "title": "抗战史料研究2015年第2辑：正面战场会战研究",
+    "url": "https://www.chinavictory.com/kzgdata/xsyj/ztda/30fd1b2217ff818a33014db538892dd5.pdf",
+    "scope": "中国人民抗日战争纪念馆研究人员；主要会战目录，非精确行军地图",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "hainan": {
+    "id": "hainan",
+    "title": "解放海南岛战役",
+    "url": "https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/4839572.html",
+    "scope": "海南渡海作战与1950年战况",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "qiongya": {
+    "id": "qiongya",
+    "title": "Island base sees struggles, setbacks and success",
+    "url": "https://eng.mod.gov.cn/xb/News_213114/Features/4911020.html",
+    "scope": "琼崖根据地、1939年日军占领沿海、1950年解放",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhoushan": {
+    "id": "zhoushan",
+    "title": "登步岛战斗我军金蝉脱壳",
+    "url": "https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/4843186.html",
+    "scope": "1949年登步岛战斗、1950年舟山撤军及登岛",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao1": {
+    "id": "mao1",
+    "title": "毛泽东生平年表1893—1925",
+    "url": "https://dangshi.people.com.cn/n/2013/1202/c85037-23714540.html",
+    "scope": "早期实际活动地点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao2": {
+    "id": "mao2",
+    "title": "毛泽东生平年表1926—1931",
+    "url": "https://dangshi.people.com.cn/n/2013/1202/c85037-23714567.html",
+    "scope": "广州、武汉、井冈山、瑞金节点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao3": {
+    "id": "mao3",
+    "title": "毛泽东生平年表1932—1936",
+    "url": "https://dangshi.people.com.cn/n/2013/1202/c85037-23714580.html",
+    "scope": "长征及陕北活动",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao4": {
+    "id": "mao4",
+    "title": "毛泽东生平年表1937—1940",
+    "url": "https://dangshi.people.com.cn/n/2013/1202/c85037-23714592.html",
+    "scope": "延安阶段",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao5": {
+    "id": "mao5",
+    "title": "毛泽东生平年表1946—1950",
+    "url": "https://dangshi.people.com.cn/n/2013/1202/c85037-23714655.html",
+    "scope": "解放战争与建国阶段",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "mao6": {
+    "id": "mao6",
+    "title": "毛泽东生平简介",
+    "url": "https://news.12371.cn/2013/12/20/ARTI1387504049822760.shtml",
+    "scope": "生卒信息",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhou": {
+    "id": "zhou",
+    "title": "领袖大事年表：周恩来",
+    "url": "https://cpc.people.com.cn/GB/143527/147173/10536441.html",
+    "scope": "人物年度节点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhou2": {
+    "id": "zhou2",
+    "title": "周恩来：我们的一切工作都是为了人民",
+    "url": "https://cpc.people.com.cn/GB/34136/2543721.html",
+    "scope": "国内、旅日、旅欧经历",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhu": {
+    "id": "zhu",
+    "title": "朱德谈学习党史",
+    "url": "https://www.12371.cn/2021/02/26/ARTI1614342910957197.shtml",
+    "scope": "仪陇、昆明及赴欧求索",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhu2": {
+    "id": "zhu2",
+    "title": "朱德自述",
+    "url": "https://fuwu.12371.cn/2014/07/01/ARTI1404207751641420_all.shtml",
+    "scope": "革命早期个人经历",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "deng": {
+    "id": "deng",
+    "title": "邓小平生平简介",
+    "url": "https://cpc.people.com.cn/n/2013/0814/c69682-22559800.html",
+    "scope": "旅欧、苏联、国内革命和改革节点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "deng2": {
+    "id": "deng2",
+    "title": "邓小平生平年表1971—1980",
+    "url": "https://cpc.people.com.cn/n/2013/0814/c69682-22559804.html",
+    "scope": "复出、联合国与改革初期",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "lu": {
+    "id": "lu",
+    "title": "上海鲁迅纪念馆：鲁迅生平",
+    "url": "https://www.luxunmuseum.cn/study/index.html",
+    "scope": "生平与纪念馆资料目录",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "lu2": {
+    "id": "lu2",
+    "title": "鲁迅先生年谱（许寿裳）",
+    "url": "https://luxunlib.com/story/我所认识的鲁迅/附录一　鲁迅先生年谱/",
+    "scope": "同时代友人编写的年谱；地名定位",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "sun": {
+    "id": "sun",
+    "title": "孙中山故居纪念馆：大事年表",
+    "url": "https://www.sunyat-sen.org/index.php/portal/list/index.html?id=18",
+    "scope": "纪念馆大事年表",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "sun2": {
+    "id": "sun2",
+    "title": "孙中山生平",
+    "url": "https://sunyat-sen.org/portal/list/index.html?id=17",
+    "scope": "纪念馆生平资料",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "zhu3": {
+    "id": "zhu3",
+    "title": "朱德在抗日战争中的历史贡献",
+    "url": "https://www.dswxyjy.org.cn/n1/2019/0228/c423728-30928269.html",
+    "scope": "太行与延安活动",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "liu": {
+    "id": "liu",
+    "title": "刘少奇：社会主义建设时期需要更多的傻子",
+    "url": "https://cpc.people.com.cn/GB/34136/2543770.html",
+    "scope": "人物生平及主要活动",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "liu2": {
+    "id": "liu2",
+    "title": "刘少奇业绩室",
+    "url": "https://cpc.people.com.cn/BIG5/143527/147174/index.html",
+    "scope": "生卒、莫斯科学习及国内工作",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "peng": {
+    "id": "peng",
+    "title": "彭德怀的本色",
+    "url": "https://www.dswxyjy.org.cn/n1/2024/1018/c244516-40342206.html",
+    "scope": "平江、井冈山和西北战场",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "peng2": {
+    "id": "peng2",
+    "title": "彭德怀在三线",
+    "url": "https://www.dswxyjy.org.cn/n1/2015/1231/c244516-28001007.html",
+    "scope": "1965年到成都工作",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "pingjiang": {
+    "id": "pingjiang",
+    "title": "平江起义纪念馆",
+    "url": "https://www.dswxyjy.org.cn/n/2013/0822/c222137-22660847.html",
+    "scope": "平江起义经过及转移",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "he": {
+    "id": "he",
+    "title": "贺龙故居和纪念馆",
+    "url": "https://www.dswxyjy.org.cn/n/2013/0816/c222137-22592280.html",
+    "scope": "贺龙生平与根据地活动",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "he2": {
+    "id": "he2",
+    "title": "重访红二、六军团出发地",
+    "url": "https://www.mod.gov.cn/gfbw/gfjy_index/4845281.html",
+    "scope": "桑植、甘孜、将台堡长征节点",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "chen": {
+    "id": "chen",
+    "title": "陈云：新中国理财专家",
+    "url": "https://cpc.people.com.cn/GB/33840/2543861.html",
+    "scope": "上海、瑞金、莫斯科、新疆及国内经历",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "chen2": {
+    "id": "chen2",
+    "title": "在纪念陈云同志诞辰110周年座谈会上的发言",
+    "url": "https://news.12371.cn/2015/06/13/ARTI1434144496566746.shtml",
+    "scope": "建国后财经与制度建设",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "warlords": {
+    "id": "warlords",
+    "title": "北洋军阀的黑暗统治",
+    "url": "https://www.dswxyjy.org.cn/BIG5/n/2013/0129/c244520-20359517.html",
+    "scope": "北洋各派势力背景，不支持精确年末边界",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "taiwan": {
+    "id": "taiwan",
+    "title": "台湾同胞反抗日本殖民统治的历史",
+    "url": "https://www.gwytb.gov.cn/szyw/201101/t20110123_1723823.htm",
+    "scope": "1895—1945年日本殖民统治的时间范围",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "guangdong": {
+    "id": "guangdong",
+    "title": "护法运动",
+    "url": "https://www.sunyat-sen.org/portal/article/index.html?cid=24&id=25296",
+    "scope": "广州政权变迁",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "northeast": {
+    "id": "northeast",
+    "title": "东北抗战相关史料",
+    "url": "https://www.1937china.com/kzgdata/html/20190704/156689561271082010479.html",
+    "scope": "东北及热河沦陷背景",
+    "checked_on": "2026-09-25",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "postwar_official": {
+    "id": "postwar_official",
+    "title": "中国人民解放军军史与中国人民志愿军抗美援朝战史公开资料汇编",
+    "url": "https://www.mod.gov.cn/gfbw/gfjy_index.htm",
+    "scope": "1950年以来主要战役时间、参战部队和战区方向的公开资料入口；人数使用约数并保留精度说明。",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only",
+    "precision": "campaign-level summary"
+  },
+  "chen_yi_bio": {
+    "id": "chen_yi_bio",
+    "title": "陈毅生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490411.html",
+    "scope": "陈毅早期革命、华东战场、上海工作、外交工作与逝世信息",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "dong_biwu_bio": {
+    "id": "dong_biwu_bio",
+    "title": "董必武生平资料（人民网七一导航）",
+    "url": "https://cpc.people.com.cn/daohang/n/2013/0225/c357210-20593467.html",
+    "scope": "董必武求学、建党、根据地和新中国法治建设经历",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "li_dazhao_bio": {
+    "id": "li_dazhao_bio",
+    "title": "李大钊与中共北方党组织的建立（人民网党史）",
+    "url": "https://dangshi.people.com.cn/n1/2021/0520/c436975-32108493.html",
+    "scope": "李大钊传播马克思主义、创建北方党组织和1927年牺牲",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "liu_bochen_bio": {
+    "id": "liu_bochen_bio",
+    "title": "刘伯承生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490151.html",
+    "scope": "刘伯承参加辛亥革命、南昌起义、长征、抗战、解放战争和军事教育",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "luo_ronghuan_bio": {
+    "id": "luo_ronghuan_bio",
+    "title": "罗荣桓生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490430.html",
+    "scope": "罗荣桓红军政治工作、山东抗战、东北解放和建国后军队建设",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "nie_rongzhen_bio": {
+    "id": "nie_rongzhen_bio",
+    "title": "聂荣臻生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490472.html",
+    "scope": "聂荣臻旅欧经历、红军、晋察冀抗战、平津战役和国防科技建设",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "ren_bishi_bio": {
+    "id": "ren_bishi_bio",
+    "title": "任弼时纪念馆生平资料（人民网）",
+    "url": "https://cpc.people.com.cn/BIG5/69112/82103/index.html",
+    "scope": "任弼时早期革命、长征、延安整风、解放战争和逝世",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "xu_haidong_bio": {
+    "id": "xu_haidong_bio",
+    "title": "徐海东生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/127855/7536984.html",
+    "scope": "徐海东参加北伐、鄂豫皖斗争、红二十五军长征和抗日战争",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "xu_xiangqian_bio": {
+    "id": "xu_xiangqian_bio",
+    "title": "徐向前生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490461.html",
+    "scope": "徐向前红四方面军、冀南抗战、晋中战役和建国后军队工作",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  },
+  "official_2024_joint_sword": {
+    "id": "official_2024_joint_sword",
+    "title": "东部战区开展联合利剑—2024B演习（中华人民共和国国防部）",
+    "url": "https://www.mod.gov.cn/gfbw/wzll/yw_214068/16345142.html",
+    "scope": "2024年10月14日东部战区陆军、海军、空军、火箭军联合演习时间、区域、兵种和科目",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only",
+    "precision": "official_public_operation_summary"
+  },
+  "ye_jianying_bio": {
+    "id": "ye_jianying_bio",
+    "title": "叶剑英生平资料（中国共产党新闻网）",
+    "url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490482.html",
+    "scope": "叶剑英参加护法、黄埔、长征、统战、北平接管和拨乱反正",
+    "checked_on": "2026-10-01",
+    "stored_content": "bibliographic_reference_only"
+  }
+}

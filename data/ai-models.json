@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "default_model": "redmap-qwen-local",
+  "server": {"base_url": "http://127.0.0.1:18090/v1", "health_endpoint": "/models", "discover_ports": [18090, 1235, 1234]},
+  "models": [{"id": "redmap-qwen-local", "display_name": "Qwen2.5 1.5B Instruct Q4_K_M", "file": "qwen2.5-1.5b-instruct-q4_k_m.gguf", "directory": "local-ai/models", "repository": "Qwen/Qwen2.5-1.5B-Instruct-GGUF", "minimum_free_disk_gb": 4, "recommended_ram_gb": 8, "official_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF"}],
+  "runtime": {"repository": "ggml-org/llama.cpp", "platform": "Windows x64 CPU", "directory": "local-ai/runtime", "checksum": "Official GitHub asset digest and Hugging Face LFS SHA256"},
+  "sources": [{"title": "llama.cpp official server", "url": "https://github.com/ggml-org/llama.cpp/tree/master/tools/server"}, {"title": "Official Qwen model", "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF"}]
+}

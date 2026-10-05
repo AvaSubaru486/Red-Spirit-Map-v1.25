@@ -1,0 +1,3 @@
+# Build-time only. Web runtime continues to use requirements.txt.
+shapely==2.1.2
+opencc-python-reimplemented==0.1.7

@@ -1,0 +1,1961 @@
+{
+  "schema_version": 2,
+  "version": "561b7eaa11a5fff6",
+  "built_at": "2026-09-25T15:21:21.587515+00:00",
+  "target_standard": "现行县级及港澳台对应分区；附来源版本字段",
+  "official_current_verified": false,
+  "counts": {
+    "province": 34,
+    "district": 3241,
+    "city": 355
+  },
+  "sources": {
+    "release": "2025.251231.260403",
+    "fetched_at": "2026-09-25T15:12:56.022110+00:00",
+    "publisher": "AreaCity (third-party aggregation; not an official publication)",
+    "source_crs": "GCJ-02",
+    "taiwan_crs": "TWD97 geographic EPSG:3824 (effectively WGS84 at display scale)",
+    "known_source_omissions": [
+      "和安县",
+      "和康县"
+    ],
+    "unavailable_official_downloads": [
+      {
+        "dataset": 7442,
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "dataset": 7441,
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "files": [
+      {
+        "file": "areacity_roster.csv",
+        "url": "https://raw.githubusercontent.com/xiangyuecn/AreaCity-JsSpider-StatsGov/2025.251231.260403/src/%E9%87%87%E9%9B%86%E5%88%B0%E7%9A%84%E6%95%B0%E6%8D%AE/ok_data_level3.csv",
+        "bytes": 240347,
+        "sha256": "dd5a1594565b65fa3fea5ce4b9935e0b28908226949ae44f07ebfd533428e8ff"
+      },
+      {
+        "file": "areacity_README.md",
+        "url": "https://raw.githubusercontent.com/xiangyuecn/AreaCity-JsSpider-StatsGov/2025.251231.260403/README.md",
+        "bytes": 33732,
+        "sha256": "2d27b96407126848cb4e4c09e1e7e189a0c4f00632e7dae6078fb0a0427ec3d5"
+      },
+      {
+        "file": "areacity_LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/xiangyuecn/AreaCity-JsSpider-StatsGov/2025.251231.260403/LICENSE",
+        "bytes": 1067,
+        "sha256": "f7d6de4fb9f32d006eb441f43ce99c7c261bf343b6dd0b0fa9af337007802272"
+      },
+      {
+        "file": "areacity_geo.7z",
+        "url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov/releases/download/2025.251231.260403/ok_geo.csv.7z",
+        "bytes": 16518032,
+        "sha256": "675c3e9b8dec6444994d3ef53259a145304f6a957db8a5e601e55c0b9e61e21a"
+      },
+      {
+        "file": "taiwan_atlas_towns.topo.json",
+        "url": "https://cdn.jsdelivr.net/npm/taiwan-atlas@2021.9.20/towns-10t.json",
+        "bytes": 512094,
+        "sha256": "250f63cdef76679b67d2a34633a69355c8f1180ae6b55407e6c87789940feab0"
+      },
+      {
+        "file": "taiwan_atlas_README.md",
+        "url": "https://cdn.jsdelivr.net/npm/taiwan-atlas@2021.9.20/README.md",
+        "bytes": 12062,
+        "sha256": "be966ad544a21e0e95a888669d8be4d418597f35ab25f4e461d55e77d53c5f38"
+      },
+      {
+        "file": "taiwan_atlas_LICENSE.txt",
+        "url": "https://cdn.jsdelivr.net/npm/taiwan-atlas@2021.9.20/LICENSE",
+        "bytes": 1067,
+        "sha256": "9ad88ef4eb520e69c47b49f6cccb00da33a1f04d9b13424c4242761c47049a98"
+      },
+      {
+        "file": "mca_publication_notice.html",
+        "url": "https://www.mca.gov.cn/n156/n186/index.html",
+        "bytes": 25011,
+        "sha256": "d5f32210d537784d522a54d34fd62c16083621eebda1eb51fdb3e9dd04024b98"
+      },
+      {
+        "file": "taiwan_county_metadata.json",
+        "url": "https://data.gov.tw/api/v2/rest/dataset/7442",
+        "bytes": 3653,
+        "sha256": "497bb9dd23aaa18bed01ed09f04e1b0ac3dcb8639d1e3fb57a668004103749aa"
+      },
+      {
+        "file": "taiwan_town_metadata.json",
+        "url": "https://data.gov.tw/api/v2/rest/dataset/7441",
+        "bytes": 2609,
+        "sha256": "3114dcfe34d13e9d8dc01760728e12ea65676043242500abeda1056a026ef25c"
+      }
+    ]
+  },
+  "limitations": [
+    "大陆采用来源快照并保留版本、日期和哈希字段，目录接口返回来源版本信息。",
+    "和安县、和康县在来源中无代码和边界，页面使用所属上级区域定位。",
+    "台湾采用2021.9.20版官方资料再发布拓扑（22县市、368乡镇市区），并保留来源版本字段。",
+    "港澳沿用原项目 DataV 分区快照，并保留来源时点字段。",
+    "几何经过简化及GCJ-02近似反算，不用于测绘、法律边界或主权认定。"
+  ],
+  "no_county_level_units": [
+    {
+      "id": "441900",
+      "name": "东莞市"
+    },
+    {
+      "id": "442000",
+      "name": "中山市"
+    },
+    {
+      "id": "460400",
+      "name": "儋州市"
+    },
+    {
+      "id": "620200",
+      "name": "嘉峪关市"
+    }
+  ],
+  "files": {
+    "province.json": {
+      "sha256": "319edd0472b1ad88d67b478a46ed55378df174c03440a92ef80d079b4f9621fc",
+      "features": 34
+    },
+    "city.json": {
+      "sha256": "1e4c0c9bcf7c6ad86fbbbec5f46c2f27018e706ad524686ce95fc7081257dbd4",
+      "features": 355
+    },
+    "district.json": {
+      "sha256": "1c225b9352311655b018930bda18163c3fd51d4dcb1fc8dc61827fb15b9c52c1",
+      "features": 3239
+    }
+  },
+  "simplification": [
+    {
+      "level": "province",
+      "parent": "100000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "110000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "120000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "130000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "130900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "131000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "131100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "140000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "140900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "141000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "141100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "150000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "150900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "152200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "152500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "152900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "210000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "210900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "211000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "211100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "211200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "211300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "211400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "220000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "220800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "222400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "230000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "230900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "231000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "231100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "231200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "232700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "310000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "320000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "320900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "321000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "321100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "321200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "321300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "330000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "330900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "331000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "331100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "340000",
+      "shared_edge_simplification": false
+    },
+    {
+      "level": "district",
+      "parent": "340100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "340800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "341800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "350000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "350900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "360000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "360900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "361000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "361100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "370000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "370900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "371700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "410000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "411700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "410000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "420000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "421000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "421100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "421200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "421300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "422800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "420000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "430000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "430900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "431000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "431100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "431200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "431300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "433100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "440000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "440900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "441800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "445100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "445200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "445300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "450000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "450900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "451000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "451100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "451200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "451300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "451400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "460000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "460100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "460200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "460300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "460000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "500000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "510000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "510900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "511900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "512000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "513200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "513300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "513400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "520000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "520600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "522300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "522600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "522700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "530000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "530900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "532300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "532500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "532600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "532800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "532900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "533100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "533300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "533400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "540000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "540600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "542500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "610000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "610900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "611000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "620000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "620900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "621000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "621100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "621200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "622900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "623000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "630000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "630100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "630200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632600",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "632800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "640000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "640100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "640200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "640300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "640400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "640500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "city",
+      "parent": "650000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "650100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "650200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "650400",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "650500",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "652300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "652700",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "652800",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "652900",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "653000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "653100",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "653200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "654000",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "654200",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "654300",
+      "shared_edge_simplification": true
+    },
+    {
+      "level": "district",
+      "parent": "650000",
+      "shared_edge_simplification": true
+    }
+  ]
+}
